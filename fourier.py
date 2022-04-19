@@ -64,7 +64,7 @@ class Fourier(Scene):
         math_func = MathTex(tex_func, font_size=40)
         math_func.set_color(COLOR_FUNC)
 
-        math_tilde = MathTex(r"\sim", font_size=60)
+        math_tilde = MathTex(tex_sim_or_equals, font_size=60)
         math_tilde.set_color(COLOR_TILDE)
 
         math_series = MathTex(tex_series, font_size=40)

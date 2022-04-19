@@ -30,6 +30,7 @@ def series(x, n_terms):
 tex_func = r"""
 f(x) = |x| \hspace{2em} (-\pi \leq x < \pi)
 """
+tex_sim_or_equals = r"="
 tex_series = r"""
 \dfrac{\pi}{2} +
 \sum_{n=1}^{\infty}

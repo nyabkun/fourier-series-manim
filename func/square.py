@@ -36,6 +36,7 @@ f(x) =
     0 \quad ( \, 0 \leq x < \pi \, )
 \end{cases}
 """
+tex_sim_or_equals = r"\sim"
 tex_series = r"""
 \dfrac{1}{2} +
 \sum_{n=1}^{\infty}
