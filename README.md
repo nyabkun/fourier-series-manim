@@ -4,6 +4,8 @@ Simple Fourier series animation program using ManimCE.
 
 https://user-images.githubusercontent.com/75878387/163996362-6b3790a1-75f2-4a83-9f95-f819cacb3829.mp4
 
+https://user-images.githubusercontent.com/75878387/164239166-c0d178c6-6f68-4bff-9f2a-77dc1c723015.mp4
+
 https://user-images.githubusercontent.com/75878387/163995825-773aa2c6-0a42-4410-9b88-996ef0642d50.mp4
 
 # Requirements
