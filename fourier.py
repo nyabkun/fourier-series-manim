@@ -1,8 +1,10 @@
 from manim import *
 
 # Config file with specific Fourier series functions
-from func.triangle import *
+from func.x2 import *
+# from func.triangle import *
 # from func.square import *
+
 
 # compile command
 #    manim -pqm fourier.py Fourier
