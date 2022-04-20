@@ -19,7 +19,7 @@ https://github.com/ManimCommunity/manim
 - Main Program
   - `fourier.py`
 - Fourier Series definition and plot settings
-  - `func/triangle.py, func/square.py`
+  - `func/triangle.py, func/square.py, func/x2.py`
 
 # References
 
