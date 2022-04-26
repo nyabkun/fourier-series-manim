@@ -1,7 +1,8 @@
 from manim import *
 
 # Config file with specific Fourier series functions
-from func.x2 import *
+# from func.x2 import *
+from func.x import *
 # from func.triangle import *
 # from func.square import *
 
@@ -153,7 +154,7 @@ class Fourier(Scene):
         x_min = self.axes.x_range[0]
         x_max = self.axes.x_range[1]
 
-        if x_min <= 0 and 0 <= x_max:
+        if show_x_0_label and x_min <= 0 and 0 <= x_max:
             self.axes.add(
                 MathTex(r"0").next_to(
                     self.axes.c2p(0, 0),

@@ -52,6 +52,7 @@ y_length = 3
 include_ticks = False
 include_tip = False
 is_pi_label = True
+show_x_0_label = True
 
 # Function plot
 func_x_range_min, func_x_range_max = -3.3 * PI, 3.3 * PI
