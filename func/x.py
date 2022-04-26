@@ -36,10 +36,10 @@ tex_series = r"""
 """
 
 # Number of terms
-series_start, series_end, series_step = 1, 19, 2
+series_start, series_end, series_step = 1, 19, 1
 series_run_time = 15
 
-series_more_start, series_more_end, series_more_step = 21, 201, 10
+series_more_start, series_more_end, series_more_step = 20, 200, 10
 series_more_run_time = 10
 
 # Axes
