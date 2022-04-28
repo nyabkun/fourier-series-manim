@@ -21,7 +21,7 @@ https://github.com/ManimCommunity/manim
 - Main Program
   - `fourier.py`
 - Fourier Series definition and plot settings
-  - `func/triangle.py, func/square.py, func/x2.py`
+  - In `func` directory, Each of the `.py` files contains one Fourier series setting.
 
 # References
 
