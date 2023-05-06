@@ -1,4 +1,4 @@
-Simple Fourier series animation program using ManimCE.
+Simple Fourier series animation program made by ManimCE.
 
 # Demo
 
